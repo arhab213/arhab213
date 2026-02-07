@@ -17,7 +17,6 @@ I enjoy:
 - Collaborating across backend & frontend  
 - Learning and sharing knowledge  
 
----
 
 ## 🛠 Tech Stack
 
