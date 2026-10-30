@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Riad Arhab
 
-🚀 Software Developer at **Yassir**  
-💻 I mainly work with **NestJS** and **Go**  
+🚀 Software Developer 
+💻 I mainly work with **NestJS** , **Go** and **Spring**
 🎨 I also enjoy working on the frontend with **React** and **Next.js**
 
 ---
@@ -23,6 +23,7 @@ I enjoy:
 <p align="left" gap="10px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" width="40" />
